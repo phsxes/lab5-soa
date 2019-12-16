@@ -11,3 +11,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab5-soa
 | 739274 | [Naval Alcalá](https://github.com/aeri) |[test](https://github.com/aeri/lab5-soa/tree/test) | |
 | 698521 | [Sergio Herrero](https://github.com/sherrero96) |[test](https://github.com/sherrero96/lab5-soa/tree/test) | |
 | 737069 | [Andrew Mackay](https://github.com/AndrewKM210) |[test](https://github.com/AndrewKM210/lab5-soa/tree/test) | |
+| 698521 | [Javier Giménez](https://github.com/JaviBite) |[test](https://github.com/JaviBite/lab5-soa/tree/test) | |
