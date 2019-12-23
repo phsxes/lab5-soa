@@ -19,3 +19,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab5-soa
 | 712854 | [Guillermo Pérez](https://github.com/Guillerm097) |[test](https://github.com/Guillerm097/lab5-soa/tree/test) | |
 | 740388 | [Diego Royo](https://github.com/diegoroyo) |[test](https://github.com/diegoroyo/lab5-soa/tree/test) | [bonus](https://github.com/diegoroyo/lab5-soa/tree/github) | :gift:
 | 721529 | [Jorge Fernandez](https://github.com/jorge97fernandez) |[test](https://github.com/jorge97fernandez/lab5-soa/tree/test) | |
+| 679301 | [Fernando Bercedo](https://github.com/ferbercedo) |[test](https://github.com/ferbercedo/lab5-soa/tree/test) | |
